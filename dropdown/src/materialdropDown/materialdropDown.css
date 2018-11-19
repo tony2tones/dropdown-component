@@ -1,0 +1,6 @@
+.menu {
+    width:250px;
+    display: flex;
+    flex-direction:column;
+    font-family: 'Roboto', sans-serif;
+}
